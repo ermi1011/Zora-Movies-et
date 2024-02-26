@@ -22,10 +22,10 @@ nav{
 }
 
 nav .nav-container {
-   height: 60px;
-  line-height: 60px;
+   height: 680px;
+  line-height: 80px;
   color: #fff !important;
-  margin: 0;
+  margin: 00.15px;
   padding: 0 20px;
   display: inline-block;
   font-size: 14px;
